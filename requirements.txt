@@ -1,0 +1,11 @@
+groq
+python-dotenv
+flask
+ffmpeg-python==0.2.0
+pyaudio
+pydub
+speechrecognition
+# text to speech
+gTTS
+elevenlabs
+gradio
